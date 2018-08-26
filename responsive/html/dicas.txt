@@ -1,0 +1,7 @@
+não copie e cole as coisas
+
+faça como o cara do learn the hard way series indica, escreva tudo sem control c+control v
+
+importante para fixar a sintaxe e entender o que está acontecendo
+
+aprendizado: quanto mais ativo -> melhor
