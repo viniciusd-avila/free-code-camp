@@ -1,4 +1,4 @@
-# free-code-camp
+# Goals
 
 - [ ] Middle October: complete around 10% of the challenges (140); and
 
