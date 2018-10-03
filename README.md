@@ -1,5 +1,14 @@
 # free-code-camp
 
-- [] meados de Outubro, atingir 10% dos challenges (140)
+- [ ] Middle October: complete around 10% of the challenges (140); and
 
-- [] até 23 de Novembro, manter média de 2 por dia, vou chegar em 15% dos challenges (219)
+- [ ] By November the 23rd, keep an average of 2 challenges per day. This means 15% of the challenges (219).
+
+--
+Responsive Design
+
+- [x] HTML;
+
+- [x] CSS;
+
+- [ ] Visual Applied Design;
