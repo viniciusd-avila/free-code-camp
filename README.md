@@ -11,4 +11,6 @@
 
 - [x] CSS;
 
-- [ ] Visual Applied Design;
+- [x] Visual Applied Design;
+
+- [ ] Applied Accessibility;
