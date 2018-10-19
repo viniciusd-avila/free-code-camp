@@ -13,4 +13,4 @@
 
 - [x] Applied Visual Design;
 
-- [ ] Applied Accessibility;
+- [x] Applied Accessibility;
