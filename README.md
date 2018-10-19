@@ -14,3 +14,6 @@
 - [x] Applied Visual Design;
 
 - [x] Applied Accessibility;
+
+- [ ] Responsive Web Design Principles;
+
