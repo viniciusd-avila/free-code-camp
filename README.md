@@ -15,5 +15,7 @@
 
 - [x] Applied Accessibility;
 
-- [ ] Responsive Web Design Principles;
+- [x] Responsive Web Design Principles;
+
+- [ ] CSS-Flexbox;
 
