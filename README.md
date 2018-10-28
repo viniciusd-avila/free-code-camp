@@ -17,5 +17,7 @@
 
 - [x] Responsive Web Design Principles;
 
-- [ ] CSS-Flexbox;
+- [X] CSS-Flexbox;
+
+- [ ] CSS-Grid;
 
