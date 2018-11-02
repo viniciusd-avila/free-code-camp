@@ -19,5 +19,15 @@
 
 - [X] CSS-Flexbox;
 
-- [ ] CSS-Grid;
+- [X] CSS-Grid;
+
+- Projects:
+
+    - [ ] Tribute Page; 
+    - [ ] Survey From;
+    - [ ] Product Landing Page;
+    - [ ] Technical Documentation;
+    - [ ] Personal Portfolio Webpage;
+
+
 
