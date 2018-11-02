@@ -17,11 +17,11 @@
 
 - [x] Responsive Web Design Principles;
 
-- [X] CSS-Flexbox;
+- [x] CSS-Flexbox;
 
-- [X] CSS-Grid;
+- [x] CSS-Grid;
 
-- Projects:
+Projects:
 
     - [ ] Tribute Page; 
     - [ ] Survey From;
@@ -30,4 +30,8 @@
     - [ ] Personal Portfolio Webpage;
 
 
+# Javascript Algorithms and Data Structure
 
+- [ ] Basic Javascript;
+
+- [ ] ES6;
