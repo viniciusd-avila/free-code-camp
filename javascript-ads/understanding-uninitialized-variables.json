@@ -1,0 +1,1 @@
+{"index.js":"    // Initialize these three variables\n    var a= 5;\n    var b= 10;\n    var c = \"I am a\";\n\n    // Do not change code below this line\n\n    a = a + 1;\n    b = b + 5;\n    c = c + \" String!\";\n"}
