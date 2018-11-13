@@ -22,13 +22,13 @@
 
 - [x] CSS-Grid;
 
-Projects:
+## Projects:
 
-    - [ ] Tribute Page; 
-    - [ ] Survey From;
-    - [ ] Product Landing Page;
-    - [ ] Technical Documentation;
-    - [ ] Personal Portfolio Webpage;
+- [ ] Tribute Page; 
+- [ ] Survey From;
+- [ ] Product Landing Page;
+- [ ] Technical Documentation;
+- [ ] Personal Portfolio Webpage;
 
 
 # Javascript Algorithms and Data Structure
