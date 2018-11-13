@@ -22,7 +22,7 @@
 
 - [x] CSS-Grid;
 
-## Projects:
+### Projects:
 
 - [ ] Tribute Page; 
 - [ ] Survey From;
