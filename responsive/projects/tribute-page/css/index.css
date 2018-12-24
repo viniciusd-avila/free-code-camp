@@ -1,8 +1,7 @@
-<style>
-
 html {
-
-    color: black;
+    text-align: center; 
+    min-width: 260px;
+    color:#555;
 }
 
 
@@ -14,8 +13,15 @@ img {
     margin-right: auto;
 }
 
-.alingcenter {
-    text-align: center;
+ul {
+    text-align: left;
 }
 
-</style>
+p {
+    text-align: left;
+}
+
+blockquote {
+
+    text-align: right;
+}
