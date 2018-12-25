@@ -4,10 +4,19 @@ html {
     color:#555;
 }
 
+body {
+
+    background: #ff4000;
+}
+
 #main {
 
-
+    background: #ff9922;
+    border-radius: 5px;
+    border: 0px solid;
+    margin: 50px auto;
 }
+
 
 img { 
     max-width: 100%;
@@ -29,3 +38,9 @@ blockquote {
 
     text-align: right;
 }
+
+footer {
+    margin: auto;
+    text-align: center;
+}
+
