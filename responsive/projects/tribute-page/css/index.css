@@ -1,46 +1,53 @@
 html {
-    text-align: center; 
-    min-width: 260px;
-    color:#555;
+	text-align: center; 
+	min-width: 260px;
+	color: black;
 }
 
 body {
-
-    background: #ff4000;
+	background: #ff4000;
 }
 
 #main {
-
-    background: #ff9922;
-    border-radius: 5px;
-    border: 0px solid;
-    margin: 50px auto;
+	background: #ff9922;
+	border-radius: 5px;
+	border: 0px solid;
+	margin: 50px auto;
 }
 
+#tribute-info {
+	margin-left: 20px;
+}
+
+#tribute-link {
+	color: #b32d00;
+	font-weight: bold;
+}
 
 img { 
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin-left: auto;
-    margin-right: auto;
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
 }
 
 ul {
-    text-align: left;
+	text-align: left;
 }
 
 p {
-    text-align: left;
+	text-align: left;
 }
 
 blockquote {
-
-    text-align: right;
+	text-align: right;
 }
 
 footer {
-    margin: auto;
-    text-align: center;
+	margin: auto;
+	margin-left: 20px;
+	text-align: center;
 }
-
