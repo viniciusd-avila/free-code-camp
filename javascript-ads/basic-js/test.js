@@ -1,12 +1,16 @@
-// Initialize these three variables
-var a= 5;
-var b= 10;
-var c = "I am a";
+// Setup
+function abTest(a, b) {
+  // Only change code below this line
+  if ((a <0)||(b<0)) {
+    return undefined;
+      }
+  
+  
+  // Only change code above this line
 
-// Do not change code below this line
+  return Math.round(Math.pow(Math.sqrt(a) + Math.sqrt(b), 2));
+}
 
-a = a + 1;
-b = b + 5;
-c = c + " String!";
-
-console.log(c)
+// Change values below to test your code
+abTest(2,2);
+console.log(abTest(2,-2));
