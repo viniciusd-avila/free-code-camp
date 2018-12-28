@@ -6,6 +6,8 @@
 
 - [ ] By December the 31st, complete 423 challenges (after final exams). This means 30% of the challenges (423/1409).
 
+- [ ] By February the 11st, present a new record for streak: 45 days.
+
 # Responsive Design
 
 - [x] Basic HTML;
