@@ -26,7 +26,7 @@
 
 ### Projects:
 
-- [ ] Tribute Page; 
+- [x] Tribute Page; 
 - [ ] Survey From;
 - [ ] Product Landing Page;
 - [ ] Technical Documentation;
